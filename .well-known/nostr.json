@@ -4,9 +4,9 @@
   },
   "relays": {
     "c857eab4a04f803aefca3049e0bf76337b91b6bb8a3bfcc9d495d961f28757f0": [
-      "wss://nostr.land",
+      "wss://nos.lol/",
       "wss://relay.s-w.art/",
-      "wss://nostr.swarties.com:",
+      "wss://nostr.swarties.com/",
     ]
   }
 }
